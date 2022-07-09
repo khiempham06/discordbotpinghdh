@@ -30,4 +30,4 @@ async def on_message(message):
                          + "\n      link: https://discord.com/channels/952847230648348722/" + str(message.channel.id) + "/" + str(message.id) 
                          + "\n}"
                        )
-client.run('OTk0OTEzNDk5NjkwMDYxODg0.GalpNn.WUTRnV_tEByEof9yi3Se2Pjm0QSkQMfJ861SpY')
+client.run('OTk0OTEzNDk5NjkwMDYxODg0.GjamxR.YKdNSZvmwwsM1B-k8QiJ1rJCprr9ha7WZoMOvQ')
